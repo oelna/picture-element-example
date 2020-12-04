@@ -2,6 +2,8 @@
 
 AVIF, WEBP, [JPEG2000](https://davidwalsh.name/how-to-use-jpeg-2000-jp2-for-a-faster-images-on-iphone), JPG
 
+Example images generated with [Squoosh.app](https://squoosh.app/)
+
 ## Sample code
 
 ```html
