@@ -1,6 +1,6 @@
 # Supporting multiple image file types in HTML
 
-AVIF, WEBP, JPEG2000, JPG
+AVIF, WEBP, [JPEG2000](https://davidwalsh.name/how-to-use-jpeg-2000-jp2-for-a-faster-images-on-iphone), JPG
 
 ## Sample code
 
