@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Image Tests</title>
+
+	<style>
+		img {
+			width: 1024px;
+			height: auto;
+		}
+	</style>
+</head>
+<body>
+	<picture>
+		<source type="image/avif" srcset="image.avif" /><!-- Chrome -->
+		<source type="image/webp" srcset="image.webp" /><!-- new Safari, Firefox, old Chrome -->
+		<source type="image/jp2" srcset="image.jp2" /><!-- old Safari -->
+
+		<img src="image.jpg" alt="" />
+	</picture>
+</body>
+</html>
